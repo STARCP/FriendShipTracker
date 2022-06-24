@@ -11,32 +11,31 @@
  
  ## Entry screen
  
- ![Entry Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/empty.jpg?raw=true)
- 
+ <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/empty.jpg" width="350" height="650"> 
  
   ## adding screen
- 
- ![Adding Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/add.jpg?raw=true)
+  
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/add.jpg" width="350" height="650"> 
+
 
 ## update screen
- 
- ![Update Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/update.jpg?raw=true)
+
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/update.jpg" width="350" height="650"> 
 
 ## main1 screen
- 
- ![Main screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/main1.jpg?raw=true)
+
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/main1.jpg" width="350" height="650"> 
 
 ## main2 screen
- 
- ![Main2 Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/main2.jpg?raw=true)
+
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/main2.jpg" width="350" height="650"> 
 
 ## deletesingleuser screen
- 
- ![delete single user Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/deleteone.jpg?raw=true)
- 
+
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/deleteone.jpg" width="350" height="650"> 
+
  ## delete all  screen
  
- ![deleteall Screen](https://github.com/STARCP/FriendShipTracker/blob/main/images/deleteall.jpg?raw=true)
-
+   <img src="https://github.com/STARCP/FriendShipTracker/blob/main/images/deleteall.jpg" width="350" height="650"> 
 
  
